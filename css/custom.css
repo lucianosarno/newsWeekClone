@@ -8,7 +8,6 @@
 
 .customHeader__customButtonSubscribe {
   width: 94px;
-  
 }
 
 .customHeader__customSvg_logo {
@@ -38,4 +37,5 @@
 
 .customSvg {
   fill: white;
+  color: white;
 }
