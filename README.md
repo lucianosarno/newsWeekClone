@@ -2,7 +2,7 @@
 
 > Luciano and Carlos 7th project in HTML&CSS3 module.
 
-![screenshot](./#)
+![screenshot](/resources/screenshot.png)
 
 In this task we were required to create a responsive clone of NewsWeek website using bootstrap.
 
@@ -13,20 +13,21 @@ In this task we were required to create a responsive clone of NewsWeek website u
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/lucianosarno/nytCloneFixingGitHub/6e46f0d3cd83a8b470b7d522e7e07cbc39be2168/index.html)
+[Live Demo Link](https://rawcdn.githack.com/carlos-ssh/newsweek/f445e12eb690b2de6c6843bb6fc95df5421fc8b4/index.html)
 
 ## Authors
 
 👤 Luciano Sarno
 
-- Github: [@githubhandle](https://github.com/lucianosarno)
-- Linkedin: [linkedin](https://www.linkedin.com/in/ls-soares/)
+- Github: [@lucianosarno](https://github.com/lucianosarno)
+- Linkedin: [@ls-soares](https://www.linkedin.com/in/ls-soares/)
+- Twitter: [@Luciano68238988](https://twitter.com/Luciano68238988)
 
 👤 Carlos Flores
 
-- Github: [@githubhandle]()
+- Github: [@githubhandle](https://github.com/carlos-ssh)
 - Twitter: [@twitterhandle]()
-- Linkedin: [linkedin]()
+- Linkedin: [@linkedin]()
 
 ## 🤝 Contributing
 
