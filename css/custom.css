@@ -1,5 +1,7 @@
 .customBody {
   width: 80%;
+  fill: white;
+  color: white;
 }
 
 .customHeader {
@@ -36,6 +38,7 @@
 }
 
 .customSvg {
-  fill: white;
-  color: white;
+  color: inherit;
+  fill: inherit;
+  font-weight: 700;
 }
