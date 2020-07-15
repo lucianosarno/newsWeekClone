@@ -12,8 +12,12 @@
   width: 94px;
 }
 
-.customHeader__customSvg_logo {
+.customHeader__customSvg_logoSm {
   width: 132px;
+}
+
+.customHeader__customSvg_logoLg {
+  width: 396px;
 }
 
 .customHeader__customLoginIcon {
@@ -58,11 +62,14 @@
   line-height: 16px;
 }
 
-.customCategoryTitle {
-  background-color: rgba(255, 255, 255, .9);
+.customCategoryTitleA {
   color: #F72210;
-  text-align: center;
   line-height: 1.5;
+}
+
+.customCategoryTitleDiv {
+  text-align: center;
+  background-color: rgba(255, 255, 255, .9);
 }
 
 .customArticleTitle {
@@ -71,4 +78,11 @@
   font-weight: 700;
   height: auto;
   line-height: 24px;
+}
+
+.customArticleIntro {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  height: min-content;
+  line-height: 18px;
 }
