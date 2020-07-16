@@ -23,7 +23,6 @@
 
 .customHeader__customLoginIcon {
   width: 30px;
-  margin-left: auto;
 }
 
 .customButtonSubscribe {
@@ -86,4 +85,8 @@
   font-size: 13px;
   height: min-content;
   line-height: 18px;
+}
+
+.customMain__customTopStory {
+  max-width: 390px;
 }
