@@ -9,11 +9,12 @@
 }
 
 .customHeader__customButtonSubscribe {
-  width: 94px;
+  width: calc(94px + 20% * 94 / 320);
 }
 
 .customHeader__customSvg_logoSm {
   width: 132px;
+  line-height: 16px;
 }
 
 .customHeader__customSvg_logoLg {
