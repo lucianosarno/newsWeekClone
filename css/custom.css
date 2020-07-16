@@ -98,3 +98,9 @@
   font-variant-numeric: normal;
   font-weight: 700;
 }
+
+.customText2 {
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 17px;
+  font-weight: 700;
+}
