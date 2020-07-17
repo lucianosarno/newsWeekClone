@@ -103,6 +103,7 @@
   font-family: "Roboto Condensed", sans-serif;
   font-size: 17px;
   font-weight: 700;
+  height: min-content;
 }
 
 .customLgMenu {
@@ -136,4 +137,8 @@
 
 .customSearch {
   width: 8%;
+}
+
+.customThumb {
+  max-width: 75px;
 }
