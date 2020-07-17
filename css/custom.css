@@ -9,7 +9,7 @@
 }
 
 .customHeader__customButtonSubscribe {
-  width: calc(94px + 20% * 94 / 320);
+  width: calc(80px + 10% * 94 / 320);
 }
 
 .customHeader__customSvg_logoSm {
@@ -103,4 +103,36 @@
   font-family: "Roboto Condensed", sans-serif;
   font-size: 17px;
   font-weight: 700;
+}
+
+.customLgMenu {
+  width: 95%;
+}
+
+.customMenuLink1 {
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 19px;
+  font-weight: 700;
+  text-decoration: none;
+  color: black;
+  border-right: 1px solid #d9d9d9;
+  width: max-content;
+}
+
+.customLgMenu::after {
+  content: "test";
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: -25px;
+  background-color: #FFF;
+}
+
+.customLgMenu::after {
+  left: -25px;
+  transform: rotate(-45deg);
+}
+
+.customSearch {
+  width: 8%;
 }
