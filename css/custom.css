@@ -142,3 +142,7 @@
 .customThumb {
   max-width: 75px;
 }
+
+.customArticleReduced {
+  max-width: 300px;
+}
