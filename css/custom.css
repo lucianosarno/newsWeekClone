@@ -197,3 +197,12 @@
   width: 25px;
   height: 25px;
 }
+
+.customText4 {
+  color: rgb(102, 102, 102);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  height: auto;
+  line-height: 24px;
+}
