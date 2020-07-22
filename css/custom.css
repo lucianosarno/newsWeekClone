@@ -192,3 +192,7 @@
 .genericon-facebook:before {
   content: "\f203";
 }
+
+.customSocialIcon {
+  width: 25px;
+}
