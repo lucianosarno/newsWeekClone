@@ -1,5 +1,6 @@
 .customBody {
-  width: 80%;
+  width: device-width;
+  overflow-x: hidden;
 }
 
 .customHeader {
