@@ -1,5 +1,5 @@
 .customBody {
-  width: device-width;
+  width: 100%;
   overflow-x: hidden;
 }
 
@@ -49,7 +49,7 @@
 }
 
 .customSectionTitle {
-  color: rgba(3, 3, 3, .4);
+  color: rgba(3, 3, 3, 0.4);
   font-family: "Roboto Condensed", sans-serif;
   font-size: 16px;
   font-stretch: 100%;
@@ -59,19 +59,19 @@
   font-variant-ligatures: normal;
   font-variant-numeric: normal;
   font-weight: 700;
-  height: calc(27 / 16)rem;
+  height: calc(27rem / 16);
   line-height: 16px;
 }
 
 .customCategoryTitleA {
-  color: #F72210;
+  color: #f72210;
   line-height: 1.5;
   z-index: 999;
 }
 
 .customCategoryTitleDiv {
   text-align: center;
-  background-color: rgba(255, 255, 255, .9);
+  background-color: rgba(255, 255, 255, 0.9);
 }
 
 .customArticleTitle {
@@ -121,16 +121,6 @@
   border-right: 1px solid #d9d9d9;
   width: max-content;
 }
-
-
-/* .customLgMenu::after {
-  content: "test";
-  position: absolute;
-  width: 50px;
-  height: 50px;
-  top: -25px;
-  background-color: #FFF;
-} */
 
 .customLgMenu::after {
   left: -25px;
