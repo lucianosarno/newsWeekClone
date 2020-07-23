@@ -171,19 +171,6 @@
   line-height: 12px;
 }
 
-.genericon {
-  font-size: 26px;
-  vertical-align: top;
-  text-align: center;
-  display: block;
-  font-family: "Genericons";
-  cursor: pointer;
-}
-
-.genericon-facebook:before {
-  content: "\f203";
-}
-
 .customSocialIcon {
   width: 25px;
   height: 25px;
